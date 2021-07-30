@@ -34,7 +34,7 @@ async def on_guild_join(guild):
     \n ImmortalBot is a simple Discord bot for scraping pro matches from Liquipedia and sends notifications on upcoming matches.
     \nIn your server, use `-help` to look over the various commands. Set up a team, channel, and time (in UTC) to begin listening.
     \nPlease be sure to copy team names **exactly as they appear on Liquipedia**.
-    \nIf you have any trouble, try using `-help` or contact #rushi4966 on Discord.
+    \nIf you have any trouble, try using `-help`
     """)
 
 
